@@ -1,10 +1,10 @@
-Detailed-Analysis-of-Netflix-Dataset-Revenue-Subscribers-and-IMDB-Insights
+# Detailed-Analysis-of-Netflix-Dataset-Revenue-Subscribers-and-IMDB-Insights
 
-Objective:
+# Objective:
 
 The aim of this analysis is to perform Exploratory Data Analysis (EDA) on the Netflix dataset to uncover insights about revenue and subscriber counts from different countries, as well as trends from IMDB data. By leveraging Python libraries such as Pandas, Matplotlib, and Seaborn, we will visualize and interpret data to understand regional preferences, content popularity, and revenue drivers.
 
-Dataset Overview:
+# Dataset Overview:
 
 The dataset comprises the following key components:
 
